@@ -13,7 +13,6 @@ The **MultiversX Transfers** app lets you send EGLD, ESDT tokens, NFTs, SFTs, an
 * [NFT Transfer](multiversx-transfers.md#nft-transfer)
 * [Multi NFT Transfer](multiversx-transfers.md#multi-nft-transfer)
 * [SFT Transfer](multiversx-transfers.md#sft-transfer)
-* [Meta-ESDT Transfer](multiversx-transfers.md#meta-esdt-transfer)
 * [Free NFT Mint Airdrop](multiversx-transfers.md#free-nft-mint-airdrop)
 * [ESDT Airdrop (Distribute Rewards to NFT Owners)](multiversx-transfers.md#esdt-airdrop)
 

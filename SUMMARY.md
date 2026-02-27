@@ -6,3 +6,4 @@
 * [MultiversX Assets](multiversx-assets.md)
 * [Warps](warps.md)
 * [MultiversX Swap](multiversx-swap.md)
+* [WebSocket Triggers for Make Scenarios](websocket-triggers.md)

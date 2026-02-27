@@ -35,6 +35,14 @@ With MakeX, you can build automated workflows (called "scenarios" on Make.com) t
 | **Warps** | Execute MultiversX Warps — reusable blockchain action blueprints — directly from Make.com workflows. |
 | **MultiversX Swap** | Swap tokens on MultiversX DEXs (xExchange, OneDex, AshSwap). Get quotes and token prices. *(Coming Soon)* |
 
+### Free WebSocket Triggers
+
+In addition to the MakeX apps, MakeX offers a **free WebSocket subscription service** that lets you trigger Make scenarios from MultiversX blockchain transactions. No polling, no usage fees — just instant, event-driven automation.
+
+**How it works:** Create a webhook in Make.com, add the URL to the [MakeX WebSocket app](https://mvx-websocket-dapp.netlify.app), configure your filters (address, token, sender, receiver), and subscribe. When a matching transaction occurs, your scenario runs automatically.
+
+See [WebSocket Triggers for Make Scenarios](websocket-triggers.md) for full details.
+
 ---
 
 ## Step 1: Install MakeX Apps
@@ -125,3 +133,4 @@ Explore the documentation for each app to learn about available modules, their i
 - [MultiversX Assets](multiversx-assets.md)
 - [Warps](warps.md)
 - [MultiversX Swap](multiversx-swap.md)
+- [WebSocket Triggers for Make Scenarios](websocket-triggers.md) *(Free — trigger scenarios from on-chain transactions)*

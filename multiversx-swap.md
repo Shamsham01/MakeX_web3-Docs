@@ -1,6 +1,6 @@
 # MultiversX Swap
 
-The **MultiversX Swap** app lets you swap tokens on MultiversX decentralized exchanges directly from Make.com workflows. It supports three major DEXs: **xExchange**, **OneDex**, and **AshSwap**. You can also get token prices and available trading pairs.
+The **MultiversX Swap** app lets you swap tokens on MultiversX decentralized exchanges directly from Make.com workflows. It aggregates and routes from three major DEXs: **xExchange**, **OneDex**, **JEX** and **AshSwap**. You can also get token prices and available trading pairs.
 
 > **Status:** This app is currently in development and has not been published yet. It will be available for installation soon.
 

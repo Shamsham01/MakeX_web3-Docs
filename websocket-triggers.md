@@ -74,7 +74,7 @@ You can filter which transactions trigger your webhook using these optional filt
 
 ## MakeX WebSocket App
 
-**URL:** [https://mvx-websocket-dapp.netlify.app](https://mvx-websocket-dapp.netlify.app)
+**URL:** [https://makex-web3.com/subscriptions](https://makex-web3.com/subscriptions)
 
 The service is **free** and requires no registration. Just enter your webhook URL, configure your filters, and start subscribing.
 
